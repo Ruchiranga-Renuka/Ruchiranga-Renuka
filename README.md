@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchiranga Renuka</h1>
-<h3 align="center">Java Developer | Spring Boot | Full Stack Learner</h3>
+<h3 align="center">Java Developer | Spring Boot </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Spring+Boot+Developer;Frontend+Designer;Always+Learning+New+Things&center=true&width=500&height=45&color=00FFAA&vCenter=true&pause=1000&size=22" />
