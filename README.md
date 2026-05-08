@@ -40,15 +40,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode,idea,maven" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruchiranga-Renuka&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchiranga-Renuka&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
