@@ -74,6 +74,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ruchiranga-Renuka/Ruchiranga-Renuka/output/github-contribution-grid-snake.svg"/>
+</p>
+
 ## 👀 Profile Views
 
 <p align="left">
