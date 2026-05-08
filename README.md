@@ -63,7 +63,7 @@
 
 ## 📈 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ruchiranga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night)](https://github.com/Ruchiranga-Renuka/github-readme-activity-graph)
 
 ---
 
