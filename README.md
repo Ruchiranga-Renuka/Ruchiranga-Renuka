@@ -8,18 +8,18 @@
 
 ## 🌟 About Me
 
-- 🎓 Computing Student
+- 🎓 Computing Student at Sri Lankan Institute of Information Technology
 - 💻 Building Java & Spring Boot Projects
 - 🌱 Learning Full Stack Development
 - 🚀 Interested in Web & Mobile Apps
-- 📍 Sri Lanka
+- 📍 Galle, Sri Lanka
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/">
+<a href="www.linkedin.com/in/ruchiranga-renuka-ab883b31a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
