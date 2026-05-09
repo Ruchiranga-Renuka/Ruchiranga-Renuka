@@ -19,7 +19,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/ruchiranga-renuka-ab883b31a/">
+<a href="https://linkedin.com/in/ruchiranga-renuka-ab883b31a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
