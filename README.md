@@ -2,14 +2,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Spring+Boot+Developer;Frontend+Designer;Always+Learning+New+Things&center=true&width=500&height=45&color=00FFAA&vCenter=true&pause=1000&size=22" />
 </p>
----
+
 ## 🌟 About Me
+
 - 🎓 Computing Student at Sri Lankan Institute of Information Technology
+
 - 💻 Building Java & Spring Boot Projects
+  
 - 🌱 Learning Full Stack Development
+  
 - 🚀 Interested in Web & Mobile Apps
+  
 - 📍 Galle, Sri Lanka
----
+  
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/ruchiranga-renuka-ab883b31a/">
@@ -31,11 +36,13 @@
 </p>
 ---
 ## 📈 Contribution Graph
-[![Ruchiranga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night)](https://github.com/Ruchiranga-Renuka/github-readme-activity-graph)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night"/>
+</p>
 ---
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true"/>
 </p>
 ---
 ## 👀 Profile Views
