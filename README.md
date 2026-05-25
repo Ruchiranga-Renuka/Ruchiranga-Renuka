@@ -24,27 +24,32 @@
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
----
+
+
 ## 💻 Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode,idea,maven" />
 </p>
----
+
+
 ## 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Ruchiranga-Renuka&theme=tokyonight"/>
 </p>
----
+
+
 ## 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night"/>
 </p>
----
+
+
 ## 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true"/>
 </p>
----
+
+
 ## 👀 Profile Views
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Ruchiranga-Renuka&label=Profile%20views&color=0e75b6&style=flat"/>
