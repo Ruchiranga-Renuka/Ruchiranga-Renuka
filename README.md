@@ -31,11 +31,11 @@
 </p>
 ---
 ## 📈 Contribution Graph
-[![Ruchiranga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night)](https://github.com/Ruchiranga-Renuka)
+[![Ruchiranga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night)](https://github.com/Ruchiranga-Renuka/github-readme-activity-graph)
 ---
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&row=1&column=6"/>
 </p>
 ---
 ## 👀 Profile Views
