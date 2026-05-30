@@ -27,7 +27,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ruchiranga-Renuka&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ruchiranga-Renuka&timezone=Asia/Colombo"/>
 </p>
 
 ## 📈 Contribution Graph
