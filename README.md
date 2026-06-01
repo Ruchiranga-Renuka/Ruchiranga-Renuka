@@ -35,10 +35,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night"/>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Yeshith's GitHub Stats](https://github-stats.vercel.app/api?username=Ruchiranga-Renuka&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+</div>
 
 
 ## 👀 Profile Views
