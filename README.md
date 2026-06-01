@@ -37,9 +37,8 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Ruchiranga-Renuka&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 ## 👀 Profile Views
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Ruchiranga-Renuka&label=Profile%20views&color=0e75b6&style=flat"/>
