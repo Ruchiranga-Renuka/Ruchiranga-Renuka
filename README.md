@@ -18,6 +18,9 @@
 <a href="mailto:mr.ruchirangarenuka@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
+<a href="https://ruchiranga-renuka.github.io">
+<img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ## 💻 Tech Stack
