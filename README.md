@@ -21,6 +21,9 @@
 <a href="https://ruchiranga-renuka.github.io">
 <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://wa.me/94775814400">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
 ## 💻 Tech Stack
