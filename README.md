@@ -8,7 +8,7 @@
 - 💻 Building Java & Spring Boot Projects
 - 🌱 Learning Full Stack Development
 - 🚀 Interested in Web & Mobile Apps
-- 📍 Galle, Sri Lanka
+- 📍 Galle,Sri Lanka
 
 ## 🌐 Connect With Me
 <p align="left">
