@@ -8,7 +8,7 @@
 - 💻 Building Java & Spring Boot Projects
 - 🌱 Learning Full Stack Development
 - 🚀 Interested in Web & Mobile Apps
-- 📍 Galle,Sri Lanka
+- 📍 Galle, Sri Lanka
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -33,29 +33,26 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ruchiranga-Renuka&timezone=Asia/Colombo"/>
+<img src="https://streak-stats.demolab.com/?user=Ruchiranga-Renuka&timezone=Asia/Colombo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchiranga-Renuka&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruchiranga-Renuka&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-![Yeshith's GitHub Stats](https://github-stats.vercel.app/api?username=Ruchiranga-Renuka&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-</div>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ruchiranga-Renuka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchiranga-Renuka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 👀 Profile Views
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Ruchiranga-Renuka&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Ruchiranga-Renuka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruchiranga-Renuka/Ruchiranga-Renuka/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ruchiranga-Renuka/Ruchiranga-Renuka/output/github-contribution-grid-snake.svg" />
